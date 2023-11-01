@@ -9,20 +9,20 @@
 - 🎼 I also like listening to music, and can play musical instruments such as **Guitar**, **Bass**, and **Violin**
 
 
-<h4>⌨️Languages:</h4>
+<h4>⌨️ Languages:</h4>
 - HTML
 - CSS
 - Python
 - Javascript
 
 
-<h4>⚙️Tools:</h4>
+<h4>⚙️ Tools:</h4>
 - Git
 - Docker
 - Linux Ubuntu
 - Figma
 
 
-<h4>🗄️Databases:</h4>
+<h4>🗄️ Databases:</h4>
 - postgresql (pgAdmin4)
 - phpMyAdmin
